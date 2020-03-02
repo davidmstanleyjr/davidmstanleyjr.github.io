@@ -1,1 +1,0 @@
-# davidmstanleyjr.github.io
