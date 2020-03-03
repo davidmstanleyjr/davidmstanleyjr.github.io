@@ -2,8 +2,7 @@
 
 body {
     color: #191919;
-    font-family: 'Work Sans', sans-serif;
-}
+    font-family: 'Indie Flower', cursive;}
 
 img {
     vertical-align: baseline;
@@ -210,8 +209,7 @@ a:hover, a:active {
         position: absolute;
         top: 11px;
         right: 0;
-        font-family: 'FontAwesome', serif;
-    }
+        font-family: 'Indie Flower', cursive;    }
 
     .main-menu li:hover::after,
     .main-menu li.current-menu-item::after {
@@ -266,6 +264,7 @@ a:hover, a:active {
 
     .site-header {
         background: #fff;
+        
     }
 
     .site-header.no-shadow {
@@ -279,6 +278,7 @@ a:hover, a:active {
 
     .site-title {
         padding: 28px 0 10px 0;
+        
     }
 
     .hamburger-menu .menu-icon,
@@ -380,7 +380,7 @@ a:hover, a:active {
     width: 100%;
     height: 100%;
     background: rgba(255,255,255,.9);
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Indie Flower', cursive;    
     text-align: center;
     visibility: hidden;
     opacity: 0;
@@ -394,7 +394,7 @@ a:hover, a:active {
 
 .portfolio-content h3 {
     margin-bottom: 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Indie Flower', cursive;    
     font-size: 1.5rem;
     font-weight: 500;
 }
@@ -441,8 +441,7 @@ a:hover, a:active {
     margin: 0;
     color: #a6a6a6;
     list-style: none;
-    font-family: 'Poppins', sans-serif;
-}
+    font-family: 'Indie Flower', cursive;}
 
 .breadcrumbs li {
     position: relative;
@@ -487,12 +486,11 @@ a:hover, a:active {
 .single-portfolio .content-area h1 {
     margin-top: 20px;
     font-size: 2.25rem;
-    font-family: 'Poppins', sans-serif;
-}
+    font-family: 'Indie Flower', cursive;}
 
 .single-portfolio .content-area .entry-content {
     margin-top: 20px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Indie Flower', cursive;    
     line-height: 1.6;
     color: #595959;
 }
@@ -507,8 +505,7 @@ a:hover, a:active {
 .single-portfolio .post-share label {
     margin-right: 32px;
     text-transform: capitalize;
-    font-family: 'Poppins', sans-serif;
-}
+    font-family: 'Indie Flower', cursive;}
 
 .single-portfolio .post-share ul {
     padding: 0;
@@ -558,8 +555,7 @@ a:hover, a:active {
 --------------------------------*/
 .single-portfolio .entry-meta {
     margin-top: 24px;
-    font-family: 'Poppins', sans-serif;
-}
+    font-family: 'Indie Flower', cursive;}
 
 .single-portfolio .entry-meta label {
     display: block;
@@ -615,8 +611,7 @@ a:hover, a:active {
 --------------------------------------------------------------*/
 .blog-page {
     padding-top: 15px;
-    font-family: 'Poppins', sans-serif;
-}
+    font-family: 'Indie Flower', cursive;}
 
 .blog-page .blog-content figure,
 .blog-page .blog-content .entry-content {
@@ -768,8 +763,7 @@ a:hover, a:active {
 .single-post,
 .single-page {
     padding-bottom: 70px;
-    font-family: 'Poppins', sans-serif;
-}
+    font-family: 'Indie Flower', cursive;}
 
 /*
 # Featured Image
