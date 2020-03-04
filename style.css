@@ -352,6 +352,7 @@ a:hover, a:active {
 .portfolio-content {
     position: relative;
     margin-bottom: 30px;
+    padding: 10px;
 }
 
 .home-page {
