@@ -46,12 +46,16 @@ a:hover, a:active {
     .outer-container {
         padding-left: 80px;
     }
+
+    
 }
 
 @media screen and (min-width: 768px) {
     .no-padding {
         padding: 0;
     }
+
+    
 }
 
 /*--------------------------------------------------------------
@@ -84,6 +88,12 @@ a:hover, a:active {
     cursor: pointer;
     transition: all 0.5s;
 }
+
+/* @media screen and (min-width: 480px) {
+    .site-bottom {
+        visibility: hidden;
+    }
+} */
 
 .hamburger-menu.close .menu-icon {
     visibility: hidden;
@@ -253,6 +263,8 @@ a:hover, a:active {
         padding: 0 15px;
         box-shadow: 6px 0 12px rgba(0,0,0,.05);
     }
+
+    
 
     .site-navigation {
         background: #f7f7f7;
@@ -433,6 +445,8 @@ a:hover, a:active {
     .home-page .portfolio-content {
         margin-bottom: 0;
     }
+
+    
 }
 
 /*--------------------------------------------------------------
@@ -594,6 +608,8 @@ a:hover, a:active {
     .single-portfolio {
         padding-top: 45px;
     }
+
+    
 }
 
 @media screen and (min-width: 992px) {
@@ -607,6 +623,8 @@ a:hover, a:active {
         padding-top: 115px;
     }
 }
+
+
 
 /*--------------------------------------------------------------
 # Blog
