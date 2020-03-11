@@ -1,8 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 
 body {
     color: #191919;
-    font-family: 'Indie Flower', cursive;}
+    font-family: 'Open Sans', sans-serif;
+}
 
 img {
     vertical-align: baseline;
@@ -219,7 +220,8 @@ a:hover, a:active {
         position: absolute;
         top: 11px;
         right: 0;
-        font-family: 'Indie Flower', cursive;    }
+        font-family: 'Open Sans', sans-serif;    
+    }
 
     .main-menu li:hover::after,
     .main-menu li.current-menu-item::after {
@@ -394,7 +396,7 @@ a:hover, a:active {
     width: 100%;
     height: 100%;
     background: rgba(255,255,255,.9);
-    font-family: 'Indie Flower', cursive;    
+    font-family: 'Open Sans', sans-serif;
     text-align: center;
     visibility: hidden;
     opacity: 0;
@@ -408,7 +410,7 @@ a:hover, a:active {
 
 .portfolio-content h3 {
     margin-bottom: 0;
-    font-family: 'Indie Flower', cursive;    
+    font-family: 'Open Sans', sans-serif;
     font-size: 1.5rem;
     font-weight: 500;
 }
@@ -457,7 +459,8 @@ a:hover, a:active {
     margin: 0;
     color: #a6a6a6;
     list-style: none;
-    font-family: 'Indie Flower', cursive;}
+    font-family: 'Open Sans', sans-serif;
+}
 
 .breadcrumbs li {
     position: relative;
@@ -506,7 +509,7 @@ a:hover, a:active {
 
 .single-portfolio .content-area .entry-content {
     margin-top: 20px;
-    font-family: 'Indie Flower', cursive;    
+    font-family: 'Open Sans', sans-serif;
     line-height: 1.6;
     color: #595959;
 }
@@ -521,7 +524,8 @@ a:hover, a:active {
 .single-portfolio .post-share label {
     margin-right: 32px;
     text-transform: capitalize;
-    font-family: 'Indie Flower', cursive;}
+    font-family: 'Open Sans', sans-serif;
+}
 
 .single-portfolio .post-share ul {
     padding: 0;
@@ -571,7 +575,8 @@ a:hover, a:active {
 --------------------------------*/
 .single-portfolio .entry-meta {
     margin-top: 24px;
-    font-family: 'Indie Flower', cursive;}
+    font-family: 'Open Sans', sans-serif;
+}
 
 .single-portfolio .entry-meta label {
     display: block;
@@ -631,7 +636,8 @@ a:hover, a:active {
 --------------------------------------------------------------*/
 .blog-page {
     padding-top: 15px;
-    font-family: 'Indie Flower', cursive;}
+    font-family: 'Open Sans', sans-serif;
+}
 
 .blog-page .blog-content figure,
 .blog-page .blog-content .entry-content {
@@ -783,7 +789,8 @@ a:hover, a:active {
 .single-post,
 .single-page {
     padding-bottom: 70px;
-    font-family: 'Indie Flower', cursive;}
+    font-family: 'Open Sans', sans-serif;
+}
 
 /*
 # Featured Image
