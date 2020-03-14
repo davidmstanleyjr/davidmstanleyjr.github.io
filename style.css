@@ -9,6 +9,11 @@ img {
     vertical-align: baseline;
 }
 
+.subtext {
+    color: purple;
+}
+
+
 /*--------------------------------------------------------------
 # Links
 --------------------------------------------------------------*/
@@ -401,6 +406,7 @@ a:hover, a:active {
     visibility: hidden;
     opacity: 0;
     transition: all 0.35s;
+   
 }
 
 .portfolio-content:hover .entry-content {
