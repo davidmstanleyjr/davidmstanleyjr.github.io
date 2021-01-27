@@ -5,6 +5,12 @@ body {
 	font-family: 'Open Sans', sans-serif;
 }
 
+@media screen and (min-width: 1000px) {
+	img {
+		padding: 20px;
+	}
+}
+
 img {
 	vertical-align: baseline;
 }
