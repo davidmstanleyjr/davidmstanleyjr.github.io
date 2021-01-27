@@ -797,6 +797,7 @@ a:active {
 .single-post .featured-img figure,
 .single-page .featured-img figure {
 	margin: 0;
+	padding-right: 10px;
 }
 
 .single-post .featured-img figure img,
